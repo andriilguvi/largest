@@ -14,7 +14,7 @@ System.out.print(b);
 }
 else
 {
-System.out.print("Nul");
+System.out.print("Null");
 }
 }
 }
